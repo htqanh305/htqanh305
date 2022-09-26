@@ -4,6 +4,7 @@
 **htqanh305/htqanh305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+#### I'm Anh, an undergrad student pursuing a degree in Software Development. 
 
 - 🔭 I’m currently working on 
    - vocab-app, an web application targeting English Speakers of Other Languages with a simple, user-friendly UI.
