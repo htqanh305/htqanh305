@@ -13,4 +13,4 @@
 - 📫 How to reach me: 
   - Email: quynhanhhuynh305@gmail.com
   - LinkedIn: www.linkedin.com/in/quynhanhhuynh305/
-  - Techniacl Writing Portfolio: www.anhhuynh.tech
+  - Technical Writing Portfolio: www.anhhuynh.tech
