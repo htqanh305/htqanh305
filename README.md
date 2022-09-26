@@ -11,4 +11,4 @@
 - 🌱 I’m currently learning Hadoop, Kubernetes, AWS and Machine Learning. 
 - 📫 How to reach me: 
   - Email: quynhanhhuynh305@gmail.com
-  - LinkedIn: 
+  - LinkedIn: linkedin.com/in/quynhanhhuynh305/
